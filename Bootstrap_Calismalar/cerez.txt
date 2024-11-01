@@ -1,0 +1,120 @@
+ÇEREZLERE YÖNELİK AYDINLATMA METNİ
+DSM Grup Danışmanlık İletişim ve Satış Ticaret A.Ş. (“Şirket”) olarak; kişisel verilerinizin gizliliği ve güvenliği en önemli önceliklerimiz arasındadır. Bu kapsamda, 6698 sayılı Kişisel Verilerin Korunması Kanunu’nun ("KVKK”) 10. maddesinden doğan aydınlatma yükümlülüğümüzü yerine getirmek amacıyla kişisel verileriniz hakkında sizleri bilgilendirmek isteriz. Kişisel veri, kimliğinizi belirli ya da belirlenebilir kılan her türlü bilgi anlamına gelmektedir.
+
+Şirket’e ait olan ziyaret ettiğiniz internet sitesi (“İnternet Sitesi”), çerez (cookie) kullanan bir sitedir. Çerez; kullanılmakta olan terminal cihazlara depolanmak suretiyle söz konusu cihazın tespit edilmesine olanak sağlayan, çoğunlukla harf ve sayı kombinasyonlarından oluşan düşük boyutlu küçük metin dosyasıdır.
+
+İşbu Çerezlere Yönelik Aydınlatma Metni’nin amacı, İnternet Sitemizde kullanılan çerezlerin terminal cihazlarınıza yerleştirilmesi aracılığıyla otomatik yolla elde edilen kişisel verilerinizin işlenmesine ilişkin olarak, hangi amaçlarla hangi tür çerezleri kullandığımız ve bu çerezleri nasıl yönetebileceğiniz hakkında sizlere bilgi vermektir.
+
+ŞİRKET TARAFINDAN HANGİ TÜR ÇEREZLER KULLANILMAKTADIR?
+Çerez türlerini, kullanım amaçlarına göre çerezler, sürelerine göre çerezler ve taraflarına göre çerezler olmak üzere üçlü bir tasnife tabi tutmak mümkündür.
+
+1.1. Kullanım Amaçlarına Göre Çerezler
+
+Şirket olarak, kullanım amaçlarına göre dört tür çerez kullanmaktayız. Bunlar: Performans Tanımlama (Analitik) Çerezleri, Hedefleme Amaçlı Tanımlama Çerezleri, İşlevsel Tanımlama Çerezleri ve Zorunlu Tanımlama (Kesinlikle Gerekli) Çerezleridir. Mobil uygulamada çerez yerine ilgili uygulamanın SDK''sı (Software Development Kit) kullanılmaktadır. (Şirketimize ait mobil uygulamalar ve/veya internet sitelerinin hepsi birlikte “Platform” olarak anılacaktır.)
+
+1.1.1. Performans Tanımlama (Analitik) Çerezleri: Bu çerezler, İnternet Sitesi’nin performansını ölçebilmemiz ve geliştirebilmemiz için ziyaretleri ve trafiği izlememize; hangi sayfaların en çok ve en az popüler olduğunu öğrenmemize ve müşterilerin sitede nasıl gezindiğini görmemize yardımcı olmaktadır. Bu çerezlerin topladığı tüm bilgiler anonim hale getirilmektedir. Bu çerezlere izin vermemeniz halinde tarafınızca sitemizin ne zaman ziyaret edildiği bilinemez ve performansınız izlenemez. Örneğin: Tıklama sıklığınızın takibi.
+
+1.1.2. Hedefleme Amaçlı Tanımlama Çerezleri: Bu çerezler tercih ve ilgi alanlarınıza yönelik ürün sunmak amacıyla kullanılmakta olup, reklam ortaklarımız tarafından İnternet Sitesi’nden ayarlanabilmektedir. Bu sayede hedefleme amaçlı tanımlama çerezleri, reklam ortaklarımız tarafından ilgi alanlarınızın profilini oluşturmak ve diğer sitelerdeki ilgili reklamları göstermek için kullanılabilir. Hedefleme amaçlı tanımlama çerezleri doğrudan kişisel verilerinizi saklamamakta; ancak tarayıcınızın ve internet cihazınızın belirlenebilir olmasına imkan sağlamaktadır. Hedefleme çerezlerine izin vermemeniz durumunda, hedeflenmiş reklamlarla karşılaşma olasılığınız düşük olacaktır. Örneğin: favorilerinize eklemiş olduğunuz ürünlerin yahut sıklıkla ziyaret ettiğiniz sayfaların tespit edilerek tarafınıza kişiselleştirilmiş ürün önerisi ile hizmet sunulması.
+
+1.1.3. İşlevsel Tanımlama Çerezleri: Bu çerezler, İnternet Sitesi’nin gelişmiş bir işlevsellik ve kişiselleştirme sunulmasına olanak sağlar. İşlevsel tanımlama çerezleri, Şirkettarafından veya hizmetlerimizi sayfalarımıza eklediğimiz üçüncü taraf sağlayıcılar tarafından ayarlanabilir. İşlevsel tanımlama çerezlerine izin vermemeniz halinde bu hizmetlerin tamamı veya bir kısmı düzgün çalışmayabilir. Örneğin: Dil tercihlerinize dair yaptığınız ayarlar.
+
+1.1.4. Zorunlu Tanımlama (Kesinlikle Gerekli) Çerezler: Bu çerezler İnternet Sitesi’nin çalışması için zorunlu olan ve sistemlerimizce kapatılması mümkün olmayan çerezlerdir. Zorunlu tanımlama çerezleri, kullanıcının talep etmiş olduğu bir bilgi toplumu hizmetinin (örneğin; log-in olma, form doldurma, gizlilik tercihlerinin hatırlanması gibi) yerine getirilebilmesi için zorunlu olarak kullanılmaktadırlar. Tarayıcınızı zorunlu tanımlama çerezlerini engelleyecek veya sizi uyaracak şekilde ayarlayabilirsiniz; ancak bu durumda web sitemizin bazı bölümleri gerektiği gibi çalışmayacaktır.
+
+1.2. Sürelerine Göre Çerezler
+
+Şirket olarak, sürelerine göre iki tür çerez kullanmaktayız. Bunlar, oturum çerezleri ve kalıcı çerezlerdir.
+
+1.2.1. Oturum (session - non persistent) Çerezleri: Geçici çerez olarak da adlandırılan oturum çerezi, Şirket tarafından oturumun sürekliliğinin sağlanması amacıyla kullanılır. İnternet tarayıcınızı kapattığınızda oturum çerezleri de kendiliğinden silinmektedir. Örneğin: İnternet Sitesi’ni ilk defa ziyaret ettiğinizin tespiti.
+
+1.2.2. Kalıcı (persistent) Çerezler: İnternet tarayıcısı kapatıldığı zaman kendiliğinden silinmeyen kalıcı çerezler, belirli bir tarihte veya belirli bir süre sonra kendiliğinden silinmektedir. Örneğin: İnternet Sitesi’ndeki hesabınıza giriş yaptığınız esnada her seferinde giriş bilgilerini tekrar girmemenizi sağlamak.
+
+1.3. Taraflarına göre:
+
+1.3.1. Birinci Taraf Çerezler
+Doğrudan ziyaret edilen İnternet Sitesi veya Şirket tarafından cihaza yerleştirilmektedir.
+
+1.3.2. Üçüncü Taraf Çerezler
+Şirket ile iş birliği içerisinde olan, reklam veren veya analitik sistem gibi üçüncü bir tarafça cihaza yerleştirilen çerezlerdir.
+
+İnternet Sitesi’ne giriş yaptığınız tarayıcıya bağlı olarak kullanılan çerez türleri de değişkenlik gösterebilecektir. Şirket tarafından kullanılan çerez tiplerine ilişkin detaylı ve güncel bilgilere (çerez adı, çerez tipi, çerez kullanım amacı ve çerez süresi) İnternet Sitesi’nin ana sayfasının en altında yer alan “Çerez Tercihleri” butonu ile ulaşabilirsiniz.
+
+ŞİRKET TARAFINDAN ÇEREZ KULLANIMININ HUKUKİ SEBEBİ VE ÇEREZLERİN KULLANIM AMAÇLARI
+Şirket, İnternet Sitesi’nin ana sayfasının en altında yer alan “Çerez Tercihleri” butonu vasıtasıyla ulaşacağınız ekranda yer alan tabloda her bir çerezin adına ve kullanım amaçlarına yer vermiştir. Şirket, söz konusu tabloda yer alan amaçlarla KVKK’nın 5. maddesinde belirtilen ve aşağıda yer verilen hukuka uygunluk sebeplerine dayanarak kişisel verilerinizi işlemektedir. Çerezler vasıtasıyla toplanan kişisel verileriniz;
+
+Sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olması kaydıyla, kişisel verilerinizin işlenmesinin gerekli olması hukuki sebebine dayanarak; Platform’un sunduğu hizmetlerden yararlanmanızı sağlamak için zorunlu tanımlama çerezleri ile temel fonksiyonların gerçekleştirilmesi amacıyla,
+Bir hakkın tesisi, kullanılması veya korunması için veri işlemenin zorunlu olması hukuki sebebine dayanarak; Platform’da kullanılan tüm çerez tipleri vasıtasıyla işlenen kişisel veriler, hukuki bir ihtilaf olması ya da kamu kurumlarının bilgi talebinde bulunması halinde hukuk ve dava işlerinin yürütülmesi amacıyla,
+Temel hak ve özgürlüklerine zarar vermemek kaydıyla şirketimizin meşru menfaatleri için veri işlenmesinin zorunlu olması hukuki sebebine dayanarak; Platform’un performansının ve işlevselliğinin geliştirilmesi ve iyileştirilmesine yönelik faaliyetlerin yürütülmesi, Platform’un kullanım kolaylığının sağlanması amacıyla,
+Açık rızanızın bulunması hukuki sebebine dayanarak; Performans Tanımlama Çerezleri, Hedefleme Amaçlı Tanımlama Çerezleri ve İşlevsel Tanımlama Çerezleri kullanılarak alışveriş deneyiminizin iyileştirilmesi, hizmetlerimizin sunulması ve size özel tanıtım yapılması, promosyonlar ve pazarlama tekliflerinin sunulması, İnternet Sitesi’nin veya mobil uygulamanın içeriğinin size göre iyileştirilmesi ve/veya tercihlerinizin belirlenmesi, memnuniyetinizin arttırılmasına yönelik faaliyetlerin yürütülmesi amacıyla işlenmektedir.
+
+ŞİRKET ÇEREZLER VASITASIYLA TOPLADIĞI KİŞİSEL VERİLERİNİZİ KİMLERE HANGİ HUKUKİ SEBEBE DAYANARAK HANGİ AMAÇLARLA AKTARMAKTADIR?
+Şirketimiz, kişisel verilerinizi "bilme gereği" ve "kullanma gereği" ilkelerine uygun olarak, gerekli veri minimizasyonunu sağlayarak ve gerekli teknik ve idari güvenlik tedbirlerini alarak işlemeye özen göstermektedir.
+
+Şirket çerezleri; arama motorlarını, İnternet Sitesi, mobil uygulamasını ve/veya İnternet Sitesi’nin reklam verdiği internet sitelerini ziyaret ettiğinizde ilginizi çekebileceğini düşündüğü reklamları size sunabilmek için "reklam teknolojisini" devreye sokmak amacıyla kullanabilir. Reklam teknolojisi, size özel reklamlar sunabilmek için İnternet Sitesi’ne/mobil uygulamaya ve İnternet Sitesi’nin reklam verdiği web sitelerine/mobil uygulamalarına yaptığınız önceki ziyaretlerle ilgili bilgileri kullanır. Bu reklamları sunarken, İnternet Sitesi’nin sizi tanıyabilmesi amacıyla tarayıcınıza benzersiz bir üçüncü taraf çerezi yerleştirilebilir. Bu tip üçüncü taraf çerezler vasıtasıyla elde edilen kişisel veriler, sosyal medya mecraları aracılığıyla Şirket’e giriş yapmanız halinde ilgili sosyal medya mecraları ile paylaşılabilmektedir. Şirket, ayrıca Google Inc. tarafından sağlanan bir web analizi hizmeti olan Google Analytics kullanmaktadır. Google Analytics, çerezleri kullanıcıların İnternet Sitesi’ni, mobil uygulamayı ve/veya mobil sitesini nasıl kullandıklarını istatistiki bilgiler/raporlar ile analiz etmek amacıyla kullanır. Google Analytics kullanımı hakkında daha fazla bilgi için (reddetme seçenekleri dahil), burada yer alan adresi ziyaret edebilirsiniz.
+
+Şirket, kişisel verilerinizi hizmetlerinin size özelleştirilerek geliştirilmesi, çerez tercihlerinize uygun olarak çerez yönetimi sürecinin yürütülmesi amaçlarıyla Tedarikçileri ve Hizmet Sağlayıcıları ile paylaşabilmektedir. 
+
+Şirketimiz tarafından kişisel verilerinizin yurt dışına aktarılması hallerinde ise, KVKK’nın 9. maddesi ve Ki̇şi̇sel Veri̇leri̇n Yurt Dışına Aktarılmasına İli̇şki̇n Usul ve Esaslar Hakkinda Yönetmeli̇k’in 9. maddesi uyarınca, “Standart sözleşme ile uygun güvencenin sağlanması ve çerez kullanımına onay vermeniz halinde arızi olmak kaydıyla KVKK’nın 9.maddesinin 6. fıkrasında düzenlenen hallerden birinin varlığı” hukuki sebeplerinden birinin varlığına dayanılarak iş ortaklarımız, tedarikçilerimiz ve hizmet sağlayıcılarımız ile paylaşılmaktadır.
+
+ÇEREZ KULLANIMINI NASIL KONTROL EDEBİLİRSİNİZ?
+Şirket İnternet Sitesi’ni ziyaret ettiğinizde karşınıza çıkan çerez duvarındaki “Ayarlar” butonuna bastığınızda karşılaştığınız “Onay Tercihlerini Yönet” kısmından, çerez yönetim panelindeki butonları tercihinize göre açık veya kapalı konuma getirerek çerez tercihlerinizi yönetebilirsiniz. Ayarlarınızı etkin hâle getirmek için sayfayı yenilemeniz önerilmektedir.
+
+Çerez tercihlerinizi her zaman İnternet Sitesi’nin ana sayfasının en altında yer alan “Çerez Tercihleri” butonu ile alan çerez yönetim aracı üzerinden kontrol edebilir ve çerez tercihlerinize ilişkin değişiklik yapabilirsiniz.
+
+Zorunlu çerezlerin kullanımı sitemizin çalışması için elzem olduğundan bu çerez türünü yönetebilme imkanınız bulunmamaktadır.
+
+Aşağıdaki yöntemleri kullanarak da çerez tercihlerinizi yönetebilirsiniz:
+
+Google Chrome
+
+:
+
+Tarayıcınızın adres bölümünde yer alan, "kilit işareti"ni tıklayarak, "çerezler" sekmesinden çerezlere izin verebilir veya engelleyebilirsiniz.
+
+Internet Explorer
+
+:
+
+Tarayıcınızın sağ üst bölümünde yer alan "Araçlar" bölümünden güvenlik sekmesini tıklayarak "izin ver" veya "izin verme" şeklinde çerezleri yönetebilirsiniz.
+
+Mozilla Firefox
+
+:
+
+Tarayıcınızın sağ üst köşesinde yer alan "menüyü aç" sekmesini tıklayınız. "Seçenekler" görselini tıklayarak "Gizlilik ve Güvenlik" butonunu kullanarak çerezleri yönetebilirsiniz.
+
+Opera
+
+:
+
+Tarayıcınızın "Tercihler" bölümünde "Gelişmiş"i seçerek "çerezler" bölümünden çerez yönetimini yapabilirsiniz.
+
+Safari
+
+:
+
+Telefonunuzun "Ayarlar" bölümünden "safari" sekmesini seçip, "Gizlilik ve Güvenlik" Bölümünden tüm çerez yönetiminizi yapabilirsiniz.
+
+ 
+
+Yukarıdaki seçeneklerin yanı sıra; tüm çerezler hakkında bilgi sahibi olmak ve çerez yönetimi için: https://www.allaboutcookies.org, https://www.youronlinechoices.eu/ adresini ziyaret edebilirsiniz veya "Privacy Badger" uygulamasını kullanabilirsiniz (https://www.eff.org/tr/privacybadger). Kalıcı çerezleri veya oturum çerezlerini reddederseniz, İnternet Sitesi’ni, mobil uygulamayı ve mobil sitesini kullanmaya devam edebilirsiniz fakat İnternet Sitesi’nin, mobil uygulamanın ve mobil sitesinin tüm işlevlerine erişemeyebilirsiniz veya erişiminiz sınırlı olabilir.
+
+ŞİRKET KİŞİSEL VERİLERİNİZİ NASIL KORUYOR?
+Şirket ile paylaşılan kişisel veriler, Şirket gözetimi ve kontrolü altındadır. Şirket, yürürlükteki ilgili mevzuat hükümleri gereğince bilginin gizliliğinin ve bütünlüğünün korunması amacıyla gerekli organizasyonu kurmak ve teknik önlemleri almak ve uyarlamak konusunda veri sorumlusu sıfatıyla sorumluluğu üstlenmiştir. Bu konudaki yükümlülüğümüzün bilincinde olarak;
+
+Veri gizliliğini konu alan uluslararası ve ulusal teknik standartlara uygun surette periyodik aralıklarda sızma testleri yaptırılmaktadır.
+İnternet Sitesi, mobil site ve mobil uygulama aracılığıyla Şirket’e ilettiğiniz kişisel verileriniz SSL (Secure Sockets Layer) teknolojisi kullanılarak korunmaktadır.
+Kişisel veri işleme faaliyetlerine ilişkin düzenli olarak risk analizleri yapılmakta ve risklerin azaltılması için aksiyonlar alınmaktadır.
+Kişisel verilere yetkisiz erişimleri engellemek için erişim ve yetki kontrolleri uygulanmaktadır.
+Veri işleme politikaları düzenli aralıklarla güncellenmektedir.
+HAK VE TALEPLERİNİZ İÇİN İLETİŞİM
+Kişisel verilerinizle ilgili sorularınızı ve KVKK’nın 11. maddesinde yer alan hak ve taleplerinizi, Veri Sorumlusuna Başvuru Usul ve Esasları Hakkında Tebliğ'de belirtilen şartlara uygun düzenlenmiş dilekçeyle ya da "DSM Grup Danışmanlık İletişim ve Satış Ticaret A.Ş. Başvuru Formu" ile sistemimizde kayıtlı olan üyeliğinize bağlı e-posta adresiniz vasıtasıyla kvkk@trendyol.com uzantılı e-posta adresine iletebilirsiniz. Başvuru formuna buradan ulaşabilirsiniz.
+
+
+Ayrıca, Veri Sorumlusuna Başvuru Usul ve Esasları Hakkında Tebliğ’de belirtilen şartlara uygun düzenlenmiş dilekçeyle ya da “DSM Grup Danışmanlık İletişim ve Satış Ticaret A.Ş. Başvuru Formu” ile Maslak Mahallesi, Saat Sokak Spine Tower No: 5, İç Kapı No: 19, Sarıyer/İstanbul adresine şahsen yazılı başvurarak veya noter aracılığıyla yahut Güvenli Elektronik İmza veya Mobil İmza ile imzalanmak suretiyle Kayıtlı Elektronik Posta (KEP) adresimize (dsm@hs02.kep.tr) iletebilirsiniz. Bu yola başvuracak İlgili Kişilerin kimliğini tevsik edici belgeleri ibraz etmesi zorunludur.
+
+
+AYDINLATMA METNİ HAKKINDA
+Şirket işbu Çerezlere Yönelik Aydınlatma Metni’ni yürürlükteki mevzuatta yapılabilecek değişiklikler çerçevesinde her zaman güncelleme hakkını saklı tutar.
+
+
+Güncellenme Tarihi: 27/08/2024
